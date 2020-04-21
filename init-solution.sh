@@ -1,5 +1,3 @@
-mkdir $1
-cd $1
 git init
 echo "bin" >> .gitignore
 echo "obj" >> .gitignore
